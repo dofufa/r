@@ -1,6 +1,10 @@
 # r
 Dofufa Labs Reference Library
 
+## Making Playing Cards
+  + https://www.shutterfly.com/photo-gifts/playing-cards
+  + https://www.zazzle.com/c/playing+cards
+
 ## Printing Flashcards
 
   + https://www.cvs.com/photo/home
